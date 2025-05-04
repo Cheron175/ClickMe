@@ -19,6 +19,10 @@
         <h1>Score: <span id="score">0</span></h1>
         <button onclick="increaseScore()">Click me</button>
     </div>
+    <script>
+        import { sdk } from '@farcaster/frame-sdk'
+        await sdk.actions.ready();
+    </script>
     <script src="script.js"></script>
 </body>
 </html>
