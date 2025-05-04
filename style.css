@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 20%;
+    background-color: #f9f9f9;
+  }
+  
+  button {
+    font-size: 1.2em;
+    padding: 0.8em 2em;
+    border-radius: 0.5em;
+    background-color: #6a0dad;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  button:hover {
+    background-color: #4e048c;
+  }
+  
+  @media screen and (max-width: 600px) {
+    body {
+      margin-top: 10%;
+    }
+  
+    h1 {
+      font-size: 1.5em;
+    }
+  
+    button {
+      font-size: 1em;
+      padding: 0.6em 1.5em;
+    }
+  }

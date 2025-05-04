@@ -1,0 +1,13 @@
+{
+    "version": "1",
+    "name": "Click Me Game",
+    "description": "A first Mini App test on Warpcast!",
+    "homeUrl": "https://cheron175.github.io/clickme/",
+    "iconUrl": "https://cheron175.github.io/clickme/fimage.png",
+    "accountAssociation": 
+    {
+      "signature": "0xaE57aA122e6afA07490FDDf024400BF5766BE671",
+      "message": "I own this app"
+    }
+}
+    
