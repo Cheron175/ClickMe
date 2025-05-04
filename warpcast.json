@@ -2,7 +2,7 @@
     "version": "1",
     "name": "Click Me Game",
     "description": "A first Mini App test on Warpcast!",
-    "homeUrl": "https://cheron175.github.io/ClickMe/",
+    "homeUrl": "https://click-me-two.vercel.app/",
     "iconUrl": "https://click-me-two.vercel.app/fimage.png",
     "splashImageUrl": "https://click-me-two.vercel.app/image.jpg",
     "splashBackgroundColor":"#f5f0ec",
